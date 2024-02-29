@@ -1,4 +1,4 @@
-let score = "hitesh";
+let score = "sabin";
 
 //console.log(typeof score);
 //console.log(typeof(score));
@@ -11,7 +11,7 @@ let valueInNumber = Number(score);
 // "33abc" => NaN
 //  true => 1; false => 0
 
-let isLoggedIn = "hitesh";
+let isLoggedIn = "sabin";
 
 let booleanIsLoggedIn = Boolean(isLoggedIn);
 //  console.log(booleanIsLoggedIn);
