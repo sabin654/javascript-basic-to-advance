@@ -24,4 +24,29 @@ let someNumber = 33;
 
 let stringNumber = String(someNumber);
 // console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(typeof stringNumber);
+
+// ***********operation*********
+
+//postfix
+let x = 3;
+let y = x++;
+// console.log(x);
+
+// output:
+/*
+x=> 4
+y=> 3
+
+*/
+
+//prefix
+let a = 4;
+let b = ++a;
+console.log(b);
+// output:
+/*
+a=> 5
+b=> 5
+
+*/
