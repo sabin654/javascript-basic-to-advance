@@ -6,6 +6,7 @@ let score = "sabin";
 let valueInNumber = Number(score); //convert string to num
 //console.log(typeof valueInNumber);
 //console.log(valueInNumber);
+//
 
 // "33" => 33
 // "33abc" => NaN
