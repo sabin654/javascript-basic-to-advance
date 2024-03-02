@@ -31,3 +31,5 @@ function a() {
 console.log(typeof hero); //object datatype
 console.log(typeof obj); //object
 console.log(typeof a); //function object
+
+// https://262.ecma-international.org/5.1/#sec-11.4.3
