@@ -10,6 +10,7 @@
 // This operator checks for equality without performing type coercion. It compares both the value and the type.
 // For example:
 // 1 === '1' returns false because the types of the operands are different.
+
 // null > 0:
 
 // In JavaScript, null is considered to be of type object. When compared with a number, it is coerced to 0.
@@ -28,7 +29,7 @@
 // null > 0 and null < 0 both return false because null is coerced to 0 when compared with a number.
 // User
 // what about undfeined than?
-// ChatGPT
+
 // Let's consider the comparisons involving undefined:
 
 // null > undefined:
