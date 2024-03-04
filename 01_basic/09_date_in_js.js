@@ -41,4 +41,5 @@ console.log(`the time is ${Math.floor(newDate.getMonth() / 1000)}`);
 
 newDate.toLocaleString("default", {
   weekday: "long",
-});
+}); //impotant
+console.log(newDate);
