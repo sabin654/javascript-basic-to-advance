@@ -26,3 +26,11 @@ const user = {
 // Object.freeze(user); // this will freeze it means name sabin bhandari will never be chnage
 // console.log(user);
 user.gretting(); // call the greeting function
+
+const syms = Symbol("secret");
+const name = {
+  "full name": "sabin Bhandari",
+  [syms]: "ID number 1",
+};
+console.log(name["full name"]);
+console.log(name[syms]);
