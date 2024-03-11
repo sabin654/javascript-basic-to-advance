@@ -10,7 +10,7 @@ const dc_heros = ["superman", "flash", "batman"];
 // console.log(allhero);
 
 //spread Operator
-// const all_new_heros = [...marvel_heros, ...dc_heros];
+// const all_new_heros = [...marvel_heros, ...dc_heros]; // merged two array
 // console.log(all_new_heros);
 //concat and spread Operator are same but in ral world spread is use more
 
